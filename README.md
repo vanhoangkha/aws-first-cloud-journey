@@ -1,8 +1,37 @@
-### **Chương Trình Học AWS – First Cloud Journey 2024**
+# AWS First Cloud Journey
+
+[![AWS](https://img.shields.io/badge/AWS-First%20Cloud%20Journey-FF9900.svg)](https://cloudjourney.awsstudygroup.com)
+[![Workshops](https://img.shields.io/badge/Workshops-136-blue.svg)](WORKSHOP_INDEX.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+AWS First Cloud Journey is a community learning path for people who want to move from cloud fundamentals to hands-on AWS architecture. The program combines guided videos, public workshops, architecture practice, and certification preparation for Cloud Practitioner and Solutions Architect learners.
+
+## Start Here
+
+| Resource | Purpose |
+| --- | --- |
+| [Workshop Index](WORKSHOP_INDEX.md) | Browse 136 public hands-on labs by topic |
+| [AWS Learning Hub](https://cloudjourney.awsstudygroup.com) | Read the published learning materials |
+| [AWS Skill Builder](https://skillbuilder.aws) | Use official AWS courses alongside the labs |
+| [AWS Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/) | Follow official role-based study paths |
+
+## Learning Path
+
+1. **Cloud foundations** - account setup, AWS Console, CLI, global infrastructure, pricing, and shared responsibility.
+2. **Core architecture** - IAM, VPC, EC2, S3, CloudFront, Route 53, and high availability.
+3. **Application patterns** - serverless, containers, databases, messaging, CI/CD, and observability.
+4. **Security and operations** - GuardDuty, Macie, Secrets Manager, IAM access patterns, cost governance, and monitoring.
+5. **Advanced practice** - migration, disaster recovery, data analytics, AI services, and production reference architectures.
+
+## Repository Map
+
+The individual `000xxx-*` repositories are preserved for compatibility with existing workshop links. Use [WORKSHOP_INDEX.md](WORKSHOP_INDEX.md) as the main navigation layer instead of browsing every repository manually.
 
 ---
 
-#### **I. Mục Tiêu:**
+## Chương Trình Học AWS – First Cloud Journey 2024
+
+### I. Mục Tiêu
 - Cung cấp kiến thức cơ bản đến nâng cao về AWS.
 - Phát triển kỹ năng triển khai các dịch vụ AWS qua workshop thực tiễn.
 - Chuẩn bị cho các chứng chỉ AWS (Cloud Practitioner, Solutions Architect).
